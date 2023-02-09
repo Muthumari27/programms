@@ -5,7 +5,6 @@ $n = print "Java Developer";
 
 var_dump($n);
 
-
 $var = "Hello";
 $$var = "World";
 echo $var.${$var};
