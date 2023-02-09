@@ -1,5 +1,4 @@
 <?php
-
 /*first pro*/
 $a = "hello";
 echo $a;
@@ -39,6 +38,7 @@ $text = "I like programming";
 print_r (explode(" ",$text));
 $strarr = array('Pen','Pencil','Eraser');
 echo implode(" ",$strarr);
+
 echo "First program file";
 
 ?>
